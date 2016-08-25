@@ -1,0 +1,6 @@
+[localhost]
+hostname:localhost
+ip:127.0.0.1
+[guestmachine]
+hostname:centos7.2.lcl
+ip:10.0.2.4
